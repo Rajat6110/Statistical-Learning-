@@ -1,77 +1,85 @@
-# 📊 Statistical Learning Implementation
+# 📊 Statistical Learning Implementation (Descriptive & Probability Statistics)
 
-This repository focuses on implementing Statistical Learning concepts using Python with real-world datasets. It is designed to bridge the gap between theory and practice by building models from scratch, understanding their mathematical intuition, and applying them to solve predictive problems.
+This repository contains practical implementations of core Statistical Learning and Descriptive Statistics concepts using Python. Each notebook focuses on one major topic and explains statistical theory through hands-on coding, calculations, and visualizations. The goal is to build a strong foundation for machine learning by mastering statistics first.
 
-The main aim is to learn how statistical methods work behind machine learning models and how they perform in real scenarios through hands-on coding.
+All notebooks are designed for learning, practice, and revision.
 
 ---
 
-## 📌 What’s Inside
+## 📁 Files in this Repository
 
-- **Data Preprocessing**
-  - Handling missing values  
-  - Removing duplicates  
-  - Data normalization and standardization  
-  - Feature selection and transformation  
+1. `1_central_tendency.ipynb`  
+   Covers:
+   - Mean  
+   - Median  
+   - Mode  
+   - Practical examples and interpretation  
 
-- **Exploratory Data Analysis (EDA)**
-  - Data distribution analysis  
-  - Correlation analysis  
-  - Understanding patterns and trends  
+2. `2_measureof-dispersion-skewness.ipynb`  
+   Covers:
+   - Range  
+   - Variance  
+   - Standard Deviation  
+   - Skewness  
+   - Understanding data spread and shape  
 
-- **Statistical Learning Models**
-  - Linear Regression  
-  - Logistic Regression  
-  - k-NN  
-  - Naive Bayes  
-  - Regularization (Ridge, Lasso)  
+3. `3_convarinace_correlation.ipynb`  
+   Covers:
+   - Covariance  
+   - Correlation  
+   - Relationship between variables  
+   - Positive, negative, and zero correlation  
 
-- **Model Evaluation**
-  - Train-test split  
-  - Cross-validation  
-  - Accuracy, Precision, Recall, F1-score  
-  - Mean Squared Error (MSE), R² score  
+4. `4. Practical implementation of descriptive statistics.ipynb`  
+   Covers:
+   - Complete descriptive analysis  
+   - Summary statistics  
+   - Real dataset application  
 
-- **Experiments**
-  - Comparing multiple models  
-  - Bias–variance analysis  
-  - Hyperparameter tuning  
+5. `4_Probablity Distribution Implementation.ipynb`  
+   Covers:
+   - Probability distributions  
+   - Normal distribution  
+   - Binomial distribution  
+   - Visualization and interpretation  
+
+6. `6. Practical implementation of stats advance - Part 2.ipynb.ipynb`  
+   Covers:
+   - Advanced statistical concepts  
+   - Combined practical applications  
+   - Deeper analysis using Python  
 
 ---
 
 ## 🎯 Purpose
 
-- Understand the foundation of machine learning  
-- Apply statistical methods on real datasets  
-- Strengthen mathematical intuition through code  
-- Improve problem-solving and analytical thinking  
-- Build reproducible and clean implementations  
-
----
+- Build strong statistical foundations  
+- Understand data before applying ML models  
+- Learn statistical concepts through coding  
+- Improve analytical and problem-solving skills  
+- Prepare for Machine Learning and Data Science  
 
 ---
 
 ## 🧠 Learning Approach
 
-1. Learn the statistical concept  
+1. Understand the statistical concept  
 2. Implement it in Python  
-3. Test on real data  
-4. Analyze results  
-5. Improve and optimize  
+3. Visualize and analyze results  
+4. Connect theory with real-world data  
 
 ---
 
-## 🌱 Status
+## 🛠 Tools Used
 
-This repository is continuously evolving as new statistical models and techniques are explored and implemented.
+- Python  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Seaborn  
 
 ---
 
 ## ⭐ Note
 
-This repo is meant for learning and experimentation.  
-It is ideal for students who want to understand machine learning from a strong statistical perspective.
-
-
-## 🗂 Repository Structure
-
+This repository is ideal for beginners and ML students who want to strengthen their statistics knowledge before moving into advanced machine learning algorithms.
