@@ -6,7 +6,7 @@ All notebooks are designed for learning, practice, and revision.
 
 ---
 
-## 📁 Files in this Repository
+## 📁 Files in this Repository 
 
 1. `1_central_tendency.ipynb`  
    Covers:
